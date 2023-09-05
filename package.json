@@ -1,8 +1,8 @@
 {
-  "name": "practice",
+  "name": "practice2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Assignment2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
